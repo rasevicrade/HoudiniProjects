@@ -2,3 +2,4 @@
 /WoodPlanks/hda/backup
 **/WoodPlanks/geo/
 .gitignore.bak
+*.fbx
