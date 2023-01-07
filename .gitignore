@@ -1,4 +1,4 @@
 /WoodPlanks/backup
 /WoodPlanks/hda/backup
-/WoodPlanks/geo/
+**/WoodPlanks/geo/
 .gitignore.bak
