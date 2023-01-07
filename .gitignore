@@ -1,4 +1,6 @@
 /WoodPlanks/backup
 /WoodPlanks/hda/backup
 **/WoodPlanks/geo/
+**/WoodPlanks/tex/
 .gitignore.bak
+*.exr
