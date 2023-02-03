@@ -5,3 +5,6 @@
 .gitignore.bak
 *.exr
 backup
+render
+WatchTower
+Racetrack
