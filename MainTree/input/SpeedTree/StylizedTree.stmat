@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated using SpeedTree tools -->
+<Materials Count="5" Mesh="StylizedTree.abc" FlipOpacity="0">
+	<Material ID="11" Name="First_Floor_Branch_Bark_Mat" TwoSided="1" UserData="" VertexOpacity="1" FlipNormalsOnBackside="1">
+		<Map Name="Color" File="First_Floor_Branch_Bark.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_basecolor.png" />
+		<Map Name="Normal" File="First_Floor_Branch_Bark_Normal.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_normal.png" />
+		<Map Name="Gloss" File="First_Floor_Branch_Bark_Gloss.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_roughness.png" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="AO" File="First_Floor_Branch_Bark_AO.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_ambientocclusion.png" />
+		<Map Name="Height" File="First_Floor_Branch_Bark_Height.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_height.png" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+		<Map Name="Custom2" Value="0" />
+	</Material>
+	<Material ID="12" Name="First_Floor_Canopy_Holder_Bark_Mat" TwoSided="0" UserData="" VertexOpacity="1" FlipNormalsOnBackside="1">
+		<Map Name="Color" File="First_Floor_Canopy_Holder_Bark.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_basecolor.png" />
+		<Map Name="Normal" File="First_Floor_Canopy_Holder_Bark_Normal.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_normal.png" />
+		<Map Name="Gloss" File="First_Floor_Canopy_Holder_Bark_Gloss.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_roughness.png" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="AO" File="First_Floor_Canopy_Holder_Bark_AO.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_ambientocclusion.png" />
+		<Map Name="Height" File="First_Floor_Canopy_Holder_Bark_Height.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_height.png" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+		<Map Name="Custom2" Value="0" />
+	</Material>
+	<Material ID="14" Name="Second_Floor_Branch_Bark_Mat" TwoSided="1" UserData="" VertexOpacity="1" FlipNormalsOnBackside="1">
+		<Map Name="Color" File="Second_Floor_Branch_Bark.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_basecolor.png" />
+		<Map Name="Normal" File="Second_Floor_Branch_Bark_Normal.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_normal.png" />
+		<Map Name="Gloss" File="Second_Floor_Branch_Bark_Gloss.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_roughness.png" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="AO" File="Second_Floor_Branch_Bark_AO.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_ambientocclusion.png" />
+		<Map Name="Height" File="Second_Floor_Branch_Bark_Height.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_height.png" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+		<Map Name="Custom2" Value="0" />
+	</Material>
+	<Material ID="16" Name="Top_Floor_Branch_Bark_Mat" TwoSided="1" UserData="" VertexOpacity="1" FlipNormalsOnBackside="1">
+		<Map Name="Color" File="Top_Floor_Branch_Bark.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_basecolor.png" />
+		<Map Name="Normal" File="Top_Floor_Branch_Bark_Normal.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_normal.png" />
+		<Map Name="Gloss" File="Top_Floor_Branch_Bark_Gloss.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_roughness.png" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="AO" File="Top_Floor_Branch_Bark_AO.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_ambientocclusion.png" />
+		<Map Name="Height" File="Top_Floor_Branch_Bark_Height.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_height.png" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+		<Map Name="Custom2" Value="0" />
+	</Material>
+	<Material ID="4" Name="Trunk_Bark_Mat" TwoSided="0" UserData="" VertexOpacity="1" FlipNormalsOnBackside="1">
+		<Map Name="Color" File="Trunk_Bark.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_basecolor.png" />
+		<Map Name="Normal" File="Trunk_Bark_Normal.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_normal.png" />
+		<Map Name="Gloss" File="Trunk_Bark_Gloss.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_roughness.png" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="AO" File="Trunk_Bark_AO.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_ambientocclusion.png" />
+		<Map Name="Height" File="Trunk_Bark_Height.png" Source="C:/Version Control/TheGame Large Files/Stylized tree/Materials/Bark/Stylized/Tree_bark_stylized_serious_candidate_height.png" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+		<Map Name="Custom2" Value="0" />
+	</Material>
+</Materials>
