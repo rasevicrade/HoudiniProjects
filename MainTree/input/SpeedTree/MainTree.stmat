@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Generated using SpeedTree tools -->
-<Materials Count="4" Mesh="MainTree.abc" FlipOpacity="0">
+<Materials Count="5" Mesh="MainTree.abc" FlipOpacity="0">
 	<Material ID="12" Name="Canopy_Holder_Mat" TwoSided="0" UserData="" VertexOpacity="1" FlipNormalsOnBackside="1">
 		<Map Name="Color" File="Canopy_Holder.png" Source="C:/Version Control/TheGame Large Files/MainTree/Materials/Bark/Oak Bark_thqpeg2s/Sample_Bark_2.jpg" />
 		<Map Name="Normal" File="Canopy_Holder_Normal.png" Source="C:/Version Control/TheGame Large Files/MainTree/Materials/Bark/Oak Bark_thqpeg2s/Sample_Bark_2_Normal.jpg" />
@@ -8,6 +8,16 @@
 		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
 		<Map Name="AO" File="Canopy_Holder_AO.png" Source="C:/Version Control/TheGame Large Files/MainTree/Materials/Bark/Oak Bark_thqpeg2s/Sample_Bark_2_AO.jpg" />
 		<Map Name="Height" File="Canopy_Holder_Height.png" Source="C:/Version Control/TheGame Large Files/MainTree/Materials/Bark/Oak Bark_thqpeg2s/Sample_Bark_2_Displacement.exr" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+		<Map Name="Custom2" Value="0" />
+	</Material>
+	<Material ID="2" Name="Canopy_Holder_Skeleton_Mat" TwoSided="0" UserData="" VertexOpacity="1" FlipNormalsOnBackside="1">
+		<Map Name="Color" File="Canopy_Holder_Skeleton.png" Source="C:/Version Control/TheGame Large Files/MainTree/Materials/Bark/Oak Bark_thqpeg2s/Sample_Bark_2.jpg" />
+		<Map Name="Normal" File="Canopy_Holder_Skeleton_Normal.png" Source="C:/Version Control/TheGame Large Files/MainTree/Materials/Bark/Oak Bark_thqpeg2s/Sample_Bark_2_Normal.jpg" />
+		<Map Name="Gloss" File="Canopy_Holder_Skeleton_Gloss.png" Source="C:/Version Control/TheGame Large Files/MainTree/Materials/Bark/Oak Bark_thqpeg2s/Sample_Bark_2_Gloss.jpg" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="AO" File="Canopy_Holder_Skeleton_AO.png" Source="C:/Version Control/TheGame Large Files/MainTree/Materials/Bark/Oak Bark_thqpeg2s/Sample_Bark_2_AO.jpg" />
+		<Map Name="Height" File="Canopy_Holder_Skeleton_Height.png" Source="C:/Version Control/TheGame Large Files/MainTree/Materials/Bark/Oak Bark_thqpeg2s/Sample_Bark_2_Displacement.exr" />
 		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
 		<Map Name="Custom2" Value="0" />
 	</Material>
